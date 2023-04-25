@@ -3,7 +3,7 @@
 </div>
 
 # 🛒 | Ecommerce App
-<p>O projeto "Ecommerce App" é um aplicativo desenvolvido em React Native que simula uma loja virtual com formulario de cadastramento de usuários. 
+<p>O projeto "Ecommerce App" é um aplicativo desenvolvido em React Native que simula uma loja virtual com formulário de cadastramento de usuários. 
 Projeto feito para testar meus conhecimentos adquiridos no Framework.</p>
 
 https://user-images.githubusercontent.com/104960654/234160252-1995109c-744f-466c-b3ea-e3f7b4e56bdd.mp4
